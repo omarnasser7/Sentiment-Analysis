@@ -4,7 +4,4 @@ pandas
 tensorflow
 keras
 nltk
-nltk[punkt]
-nltk[punkt_tab]
-nltk[wordnet]
 Pillow
