@@ -1,3 +1,7 @@
+import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger')
 import streamlit as st
 import numpy as np
 import pandas as pd
